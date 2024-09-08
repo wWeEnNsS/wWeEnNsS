@@ -1,6 +1,6 @@
 ![Header](https://github.com/wWeEnNsS/wWeEnNsS/blob/main/assets/images.png)
 
-About Me
+## I am a beginner programmer with 1 month experience
 
 Languages and Tools
 
